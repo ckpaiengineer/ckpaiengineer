@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Chandra 👋
 
-<!--
-**ckpaiengineer/ckpaiengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Senior Oracle & SQL Server DBA (30 years)
+- Transitioning to AI Engineer
+- Azure AI-102 in progress
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Databases: Oracle, SQL Server, PostgreSQL
+- Cloud: AWS, Azure, OCI
+- Languages: Python, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+- Machine Learning
+- Azure AI Services
+- Building AI Projects
+
+## 📂 Projects
+Coming soon...
+
+## 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/chandra-pathak-89918427/)
