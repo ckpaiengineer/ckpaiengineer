@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - Senior Oracle & SQL Server DBA (30 years)
 - Transitioning to AI Engineer
-- Azure AI-102 in progress
+- Azure AI-103 in progress
 
 ## 🧠 Skills
 - Databases: Oracle, SQL Server, PostgreSQL
